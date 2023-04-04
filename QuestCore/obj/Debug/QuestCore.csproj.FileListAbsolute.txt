@@ -1,0 +1,10 @@
+D:\Projects_CSharp\Examples\WindowsFormsApplication396\QuestCore\bin\Debug\QuestCore.dll
+D:\Projects_CSharp\Examples\WindowsFormsApplication396\QuestCore\bin\Debug\QuestCore.pdb
+D:\Projects_CSharp\Examples\WindowsFormsApplication396\QuestCore\obj\Debug\QuestCore.dll
+D:\Projects_CSharp\Examples\WindowsFormsApplication396\QuestCore\obj\Debug\QuestCore.pdb
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\bin\Debug\QuestCore.dll
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\bin\Debug\QuestCore.pdb
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\obj\Debug\QuestCore.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\obj\Debug\QuestCore.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\obj\Debug\QuestCore.dll
+C:\Users\denis\Desktop\QuestConstructor\QuestCore\obj\Debug\QuestCore.pdb
